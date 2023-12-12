@@ -1,0 +1,5 @@
+package org.processmining.lifecycleperformance.models.preprocessors;
+
+public abstract class AssignActivityInstanceXLogPreprocessorStrategy implements IAssignActivityInstanceXLogPreprocessorStrategy {
+
+}
